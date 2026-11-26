@@ -3,8 +3,7 @@
 In our Prompt & Circumstance episode, we take a cheap Android photo frame and put the family calendar,
 chores, shopping list and weather on it. Claude Code handles the technical work.
 
-▶️ **Watch the episode:** _link coming soon_
-<!-- EPISODE_LINK: replace "link coming soon" with the episode link -->
+▶️ **[Watch the episode](https://youtu.be/EcCPYHAqE5w)**
 
 ![Mock-up of the dashboard's three-day calendar view on a photo frame](docs/images/2026-11-frame-calendar_thumb_frame_3day.png)
 
